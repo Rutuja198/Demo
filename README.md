@@ -1,5 +1,4 @@
 # Demo
 This is my first Git Repository
 <br>
-Author - Rutuja Patange
-
+Author - Rutuja Develop
